@@ -1,29 +1,58 @@
 {
-  "version": 1,
-  "items": [
+  "worldConfig": {
+    "iconUrl": "https://klauscowell.github.io/VRChat/images/world-icon.png"
+  },
+
+  "youTubeConfig": {
+    "enabled": true,
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "volume": 50,
+    "autoPlay": false,
+    "loop": true
+  },
+
+  "pictureFrames": [
     {
       "id": 1,
-      "title": "夏日活動",
-      "description": "夏日活動開始了！",
-      "image": "images/summer.jpg",
-      "date": "2026-08-12",
+      "title": "2022/12 休旅車-出租 (格格租車-金門)",
+      "description": "Toyota Corolla Cross",
+      "imageUrl": "https://klauscowell.github.io/VRChat/images/Img1.jpg",
       "visible": true
     },
     {
       "id": 2,
-      "title": "新地圖開放",
-      "description": "新的區域現在可以探索。",
-      "image": "images/newmap.jpg",
-      "date": "2026-08-15",
+      "title": "機車出租 (格格租車-金門)",
+      "description": "2023-SYM 三陽機車 迪爵 Duke 125 - 鼓煞",
+      "imageUrl": "https://klauscowell.github.io/VRChat/images/Img2.jpg",
       "visible": true
     },
     {
       "id": 3,
-      "title": "已結束活動",
-      "description": "這個活動已經結束。",
-      "image": "images/old.jpg",
-      "date": "2026-07-01",
+      "title": "機車出租(格格租車-金門)",
+      "description": "2023三陽SYM活力Vivo 125 CBS鼓煞",
+      "imageUrl": "https://klauscowell.github.io/VRChat/images/Img3.jpg",
+      "visible": true
+    },
+    {
+      "id": 4,
+      "title": "八人座廂型車出租 (格格租車-金門)",
+      "description": "2023 中華三菱得利卡Delica - 自排",
+      "imageUrl": "https://klauscowell.github.io/VRChat/images/Img4.jpg",
+      "visible": true
+    },
+    {
+      "id": 5,
+      "title": "七人座休旅車出租 (格格租車-金門)",
+      "description": "2023 中華三菱Outlander - 自排 ",
+      "imageUrl": "https://klauscowell.github.io/VRChat/images/Img5.jpg",
       "visible": false
+    },
+    {
+      "id": 6,
+      "title": "九人座廂型商旅車出租 (格格租車-金門)",
+      "description": "全新2023 現代星艦Staria - 自排",
+      "imageUrl": "https://klauscowell.github.io/VRChat/images/Img6.jpg",
+      "visible": true
     }
   ]
 }
