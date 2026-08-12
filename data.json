@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "title": "VRChat 測試公告",
+  "description": "這是一個從 GitHub 讀取的動態資料。",
+  "image": "images/banner.jpg",
+  "author": "My VRChat World",
+  "date": "2026-08-12",
+  "visible": true
+}
