@@ -1,9 +1,29 @@
 {
   "version": 1,
-  "title": "VRChat 測試公告",
-  "description": "這是一個從 GitHub 讀取的動態資料。",
-  "image": "images/banner.jpg",
-  "author": "My VRChat World",
-  "date": "2026-08-12",
-  "visible": true
+  "items": [
+    {
+      "id": 1,
+      "title": "夏日活動",
+      "description": "夏日活動開始了！",
+      "image": "images/summer.jpg",
+      "date": "2026-08-12",
+      "visible": true
+    },
+    {
+      "id": 2,
+      "title": "新地圖開放",
+      "description": "新的區域現在可以探索。",
+      "image": "images/newmap.jpg",
+      "date": "2026-08-15",
+      "visible": true
+    },
+    {
+      "id": 3,
+      "title": "已結束活動",
+      "description": "這個活動已經結束。",
+      "image": "images/old.jpg",
+      "date": "2026-07-01",
+      "visible": false
+    }
+  ]
 }
