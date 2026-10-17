@@ -2,6 +2,7 @@
   "api": "https://esp32topic.vercel.app/api/convert",
   "display": 10,
   "fit": "contain",
+  "rotation": 90,
   "images": [
     "https://klauscowell.github.io/VRChat/images/cat1.jpg",
     "https://klauscowell.github.io/VRChat/images/cat2.jpg",
