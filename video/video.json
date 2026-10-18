@@ -2,8 +2,16 @@
   "volume": 50,
   "rotation": 0,
   "loop": true,
+  "source": 2,
+  "paths": [
+    "https://klauscowell.github.io/VRChat/video/",
+    "http://192.168.1.87:8080/LocalVideo/"
+  ],
   "videos": [
-    "https://klauscowell.github.io/VRChat/video/%5BStudiofow%5DComplete_Anal_Penetration.avi",
-    "https://klauscowell.github.io/VRChat/video/Chris%20POV%20-%20Resident%20Evil%20SFM.avi"
+    "Barret_x_Biggs_MrFoxhound_Stygian.avi",
+    "Leon X Pyramid Head X Mrx.avi",
+    "Taisei Iwasaki - -Catch Me If You Can- (Blood Blockade Battlefront OST).avi",
+    "WeskerChris_AureeSFM.avi",
+    "[Studiofow]Complete_Anal_Penetration.avi"
   ]
 }
