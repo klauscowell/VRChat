@@ -1,0 +1,11 @@
+{
+  "volume": 50,
+  "rotation": 0,
+  "loop": true,
+  "source": 2,
+  "paths": [
+    "https://klauscowell.github.io/VRChat/video480/",
+    "http://192.168.1.87:8080/Video480320/"
+  ],
+  "photos": "http://192.168.1.87:8080/ESP32CAM/"
+}
